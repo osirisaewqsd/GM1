@@ -61,10 +61,6 @@
 
 ![程序界面 3](docs/screenshots/screenshot-3.png)
 
-![程序界面 4](docs/screenshots/screenshot-4.png)
-
-![程序界面 5](docs/screenshots/screenshot-5.png)
-
 ## 使用说明
 
 ### PC 模式
