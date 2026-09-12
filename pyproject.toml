@@ -1,0 +1,28 @@
+# 激活 .venv\Scripts\Activate.ps1
+# 安装依赖 pip install -e .
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GM1"
+version = "1.0.0"
+description = "猫之琴 - 自动弹琴辅助工具"
+requires-python = "==3.11.9"
+dependencies = [
+    "PySide6",
+    "psutil",
+    "pywin32",
+    "cryptography",
+    "mido",
+    "pyinstaller",
+]
+
+[project.scripts]
+GM1 = "main:main"
+
+[tool.setuptools.packages.find]
+include = ["gui*", "core*", "license*", "utils*"]
+[tool.setuptools.package-data]
+"*" = ["resources/**/*"]

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build / packaging outputs
+build/
+dist/
+*.egg-info/
+*.spec
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
