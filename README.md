@@ -30,21 +30,23 @@
 
 ## 下载安装
 
-直接下载 Releases 中的压缩包，解压后运行 `猫之琴轻量版.exe` 即可
+直接下载 Releases 中的压缩包，解压后运行 `猫之琴轻量版.exe` 即可。
+
 👉 [下载猫之琴 v1.0.0](https://github.com/osirisaewqsd/GM1/releases/tag/v1.0.0)
 
-如果需要`猫之琴终极版`，可联系QQ `1016499728`
+如果需要 `猫之琴终极版`，可联系 QQ `1016499728`。
 
-终极版内置了7种前沿模型，可把歌曲音频文件直接转成 MIDI 和 TXT电子简谱，供猫之琴弹奏，并提供 MIDI 编辑器。
-1、分轨模型：（BS-Roformer-Leap）
-2、分轨模型：（DemucsV4 6s）
+终极版内置 7 种前沿模型，可将歌曲音频文件直接转换为 `MIDI` 和 `TXT` 电子简谱，供猫之琴弹奏，并提供 MIDI 编辑器。
 
-3、快速转录模型：（BasicPitch）
-4、人声转录模型：（GAME 人声清唱系列）
-5、钢琴高精转录模型：（Transkun）
-6、钢琴高精转录模型：（PianoTrans）
-7、AI钢琴改编模型：（AI钢琴改编Pop2Piano）
-
+| 序号 | 模型类型 | 模型名称 |
+| --- | --- | --- |
+| 1 | 分轨模型 | BS-Roformer-Leap |
+| 2 | 分轨模型 | DemucsV4 6s |
+| 3 | 快速转录模型 | BasicPitch |
+| 4 | 人声转录模型 | GAME 人声清唱系列 |
+| 5 | 钢琴高精转录模型 | Transkun |
+| 6 | 钢琴高精转录模型 | PianoTrans |
+| 7 | AI 钢琴改编模型 | AI 钢琴改编 Pop2Piano |
 
 ## 界面截图
 
