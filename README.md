@@ -2,7 +2,7 @@
 
 # 猫之琴
 
-一个 Windows 平台的 21 键自动弹琴工具，让游戏里的弹奏像播放音乐一样简单。
+一个 Windows 平台的 21 琴键游戏自动弹奏工具，让游戏里的弹奏像播放音乐一样简单。
 
 ![GitHub Release](https://img.shields.io/github/v/release/osirisaewqsd/GM1)
 ![License](https://img.shields.io/github/license/osirisaewqsd/GM1)
@@ -15,25 +15,36 @@
 
 【猫之琴】是一款Windows上的游戏自动弹琴软件，支持 `MIDI` 和 `TXT` 乐谱。
 
-只要游戏内有 21 个琴键，就可以自动弹奏。你可以把它当作一个“游戏弹奏播放器”，可控制速度、单曲循环或列表循环。
+适用于原神、蛋仔派对、元梦之星、永劫无间、逆水寒、摩尔庄园、第五人格等游戏
+
+只要游戏内有 21 个琴键，就可以自动弹奏。可以把它当作一个“游戏弹琴播放器”
 
 ## 功能特性
 
 - 支持 `MIDI` 和 `TXT` 乐谱文件
-- 会自动弹奏（QWERTYU，ASDFGHJ，ZXCVBNM）三排琴键
-- 支持所有21琴键的电脑游戏，模拟器游戏，安卓手机游戏
-- 可调节弹奏速度
-- 支持单曲循环、列表循环
-- 内置PC弹奏、安卓手机弹奏、安卓抖音点赞三种模式
-- 支持快捷键操作
+- 能自动弹奏（QWERTYU，ASDFGHJ，ZXCVBNM）三排琴键
+- 支持所有21琴键的电脑游戏，模拟器，安卓手机游戏
+- 支持快捷键操作，可调节速度，单曲循环、列表循环
+- 有PC、安卓手机弹奏、安卓抖音点赞三种模式
+- 并提供手机悬浮窗控制程序 GMAUT.apk，可以在ADB模式时控制
 
 ## 下载安装
 
-直接下载 Releases 中的压缩包，解压后运行 `猫之琴轻量版.exe` 即可。
-
+直接下载 Releases 中的压缩包，解压后运行 `猫之琴轻量版.exe` 即可
 👉 [下载猫之琴 v1.0.0](https://github.com/osirisaewqsd/GM1/releases/tag/v1.0.0)
 
-手机控制所需的 `GMAUT.apk` 已包含在压缩包内。
+如果需要`猫之琴终极版`，可联系QQ `1016499728`
+
+终极版内置了7种前沿模型，可把歌曲音频文件直接转成 MIDI 和 TXT电子简谱，供猫之琴弹奏，并提供 MIDI 编辑器
+1、分轨模型：（BS-Roformer-Leap）
+2、分轨模型：（DemucsV4 6s）
+
+3、快速转录模型：（BasicPitch）
+4、人声转录模型：（GAME 人声清唱系列）
+5、钢琴高精转录模型：（Transkun）
+6、钢琴高精转录模型：（PianoTrans）
+7、AI钢琴改编模型：（AI钢琴改编Pop2Piano）
+
 
 ## 界面截图
 
