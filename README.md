@@ -68,7 +68,7 @@
 如果猫之琴帮到了你，欢迎扫码请作者喝杯咖啡。你的每一份支持，都会让这个项目有更多动力继续更新和维护。
 
 <div align="center">
-  <img src="docs/donate.png" width="240" alt="赞赏码" />
+  <img src="docs/donate.jpg" width="240" alt="赞赏码" />
 </div>
 
 ## 使用说明
