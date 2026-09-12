@@ -35,6 +35,12 @@
 
 手机控制所需的 `GMAUT.apk` 已包含在压缩包内。
 
+## 界面截图
+
+![程序界面 1](docs/screenshots/screenshot-1.png)
+
+![程序界面 2](docs/screenshots/screenshot-2.png)
+
 ## 使用说明
 
 ### PC 模式
